@@ -6,8 +6,7 @@ public class GreetingActor : ReceiveActor
 {
     public GreetingActor()
     {
-        // Tell the actor to respond to the Greet message
-        Receive<Greet>(greet => Console.WriteLine($"Hello {greet.Who}", ConsoleColor.Green));
+        Receive<Greet>(greet => UserConf.UserConf.SetSalute(greet.Who));
     }
 
     protected override void PreStart() => Console.WriteLine("Good Morning, we are awake!", ConsoleColor.Green);

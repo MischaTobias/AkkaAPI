@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[1.4.49, )"
             },
+            "Akka.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.4.49, )"
+            },
             "Akka.Remote": {
               "target": "Package",
               "version": "[1.4.49, )"

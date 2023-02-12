@@ -45,3 +45,4 @@ D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\AkkaNetApi\obj\Debug\net7.0\
 D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\AkkaNetApi\obj\Debug\net7.0\AkkaNetApi.pdb
 D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\AkkaNetApi\obj\Debug\net7.0\AkkaNetApi.genruntimeconfig.cache
 D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\AkkaNetApi\obj\Debug\net7.0\ref\AkkaNetApi.dll
+D:\Universidad\9no Ciclo 2023\Ing. Software II\Labs\AkkaNetApi\bin\Debug\net7.0\Akka.DependencyInjection.dll
